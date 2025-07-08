@@ -1,3 +1,14 @@
-# Demographic Data Analyzer
+# 📊 Demographic Data Analyzer
 
-This is the boilerplate for the Demographic Data Analyzer project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/demographic-data-analyzer
+This is a beginner-friendly data analysis project where we analyze adult census income data to extract insights like race distribution, education levels, work hours, and salaries.
+
+## 🚀 How to Run
+
+1. **Install Python** (if not installed):  
+   [Download Python](https://www.python.org/downloads/)
+
+2. **Clone or Download** this repository.
+
+3. **Run Unit Tests:**
+   ```bash
+   python test_module.py
